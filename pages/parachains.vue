@@ -23,4 +23,29 @@
           </tr>
         </tbody>
       </template>
-   
+    </v-simple-table>
+  </div>
+</template>
+
+<script>
+export default {
+  data() {
+    return {
+      desserts: [
+        {
+          name: "Karura",
+          link: "https://acala.network/karura",
+          symbol: "KAR",
+          type: "DeFi",
+          rewards: "1 KSM = 12 KAR",
+        },
+        {
+          name: "Moonriver",
+          link: "https://moonbeam.network/networks/moonriver/",
+          symbol: "RIVER",
+          type: "Smart Contract",
+          rewards: "",
+        },
+        {
+          name: "Shiden Network",
+          link: "https://sh
