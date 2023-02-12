@@ -48,4 +48,25 @@ export default {
         },
         {
           name: "Shiden Network",
-          link: "https://sh
+          link: "https://shiden.plasmnet.io/",
+          symbol: "SDN",
+          type: "Smart Contract",
+          rewards: "1 KSM = 10-20",
+        },
+        {
+          name: "SherpaX",
+          link: 'https://chainx.org/en/',
+          symbol: "KSX",
+          type: "Interoperability",
+          rewards: "",
+        },
+        {
+          name: "Robonomics",
+          link: 'https://robonomics.network/',
+          symbol: "XRT",
+          type: "Marketplace",
+          rewards: "",
+        },
+        {
+          name: "Bifrost",
+          link: "https://ksm.vtoken.io/ (C
