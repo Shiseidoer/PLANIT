@@ -69,4 +69,27 @@ export default {
         },
         {
           name: "Bifrost",
-          link: "https://ksm.vtoken.io/ (C
+          link: "https://ksm.vtoken.io/ (Code:QN2463)",
+          symbol: "BCN",
+          type: "Staking Protocol",
+          rewards: "1 KSM = 1 svKSM",
+        },
+        {
+          name: "Genshiro",
+          link: 'https://genshiro.equilibrium.io/en',
+          symbol: "GENS",
+          type: "DeFi",
+          rewards: "",
+        },
+        {
+          name: "Subsocial",
+          link: 'https://subsocial.network/',
+          symbol: "SNM",
+          type: "Social Network",
+          rewards: "",
+        },
+        {
+          name: "Darwinia Crab",
+          link: "https://crab.network/",
+          symbol: "CRING",
+     
