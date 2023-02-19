@@ -122,4 +122,13 @@ export default {
   > .v-data-table__wrapper
   > table
   > tbody
-  > tr:hover:not(.v-data-table__expanded__con
+  > tr:hover:not(.v-data-table__expanded__content):not(.v-data-table__empty-wrapper) {
+  background: #cacaca13 !important;
+}
+</style>
+<style scoped>
+.theme--dark, .v-btn {
+  border: 1px rgb(230, 180, 230) !important;
+  border-style: dashed double !important;
+}
+</style>
