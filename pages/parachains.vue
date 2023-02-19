@@ -92,4 +92,34 @@ export default {
           name: "Darwinia Crab",
           link: "https://crab.network/",
           symbol: "CRING",
-     
+          type: "Interoperability",
+          rewards: "",
+        },
+      ],
+    };
+  },
+};
+</script>
+
+<style>
+.v-data-table > .v-data-table__wrapper > table {
+  width: 100%;
+  border-spacing: 0;
+  border: 1px rgb(230, 180, 230) !important;
+  border-style: dashed double !important;
+}
+
+.theme--dark.v-data-table
+  > .v-data-table__wrapper
+  > table
+  > thead
+  > tr:last-child
+  > th {
+  border-bottom: 1px dashed rgb(230, 180, 230) !important;
+}
+
+.theme--dark.v-data-table
+  > .v-data-table__wrapper
+  > table
+  > tbody
+  > tr:hover:not(.v-data-table__expanded__con
